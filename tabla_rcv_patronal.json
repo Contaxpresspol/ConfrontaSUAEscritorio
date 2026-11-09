@@ -1,0 +1,578 @@
+[
+  {
+    "Anio": 2023,
+    "Rango": "1.0 SM",
+    "SdiDesde": 207.44,
+    "SdiHasta": 209.51,
+    "Porcentaje": 3.15,
+    "FechaInicio": "2023-01-01",
+    "FechaFin": "2023-01-31"
+  },
+  {
+    "Anio": 2023,
+    "Rango": "1.01 SM a 1.50 UMA",
+    "SdiDesde": 209.51,
+    "SdiHasta": 145.29,
+    "Porcentaje": 3.281,
+    "FechaInicio": "2023-01-01",
+    "FechaFin": "2023-01-31"
+  },
+  {
+    "Anio": 2023,
+    "Rango": "1.51 a 2.00 UMA",
+    "SdiDesde": 145.29,
+    "SdiHasta": 193.4,
+    "Porcentaje": 3.575,
+    "FechaInicio": "2023-01-01",
+    "FechaFin": "2023-01-31"
+  },
+  {
+    "Anio": 2023,
+    "Rango": "2.01 a 2.50 UMA",
+    "SdiDesde": 193.4,
+    "SdiHasta": 241.51,
+    "Porcentaje": 3.751,
+    "FechaInicio": "2023-01-01",
+    "FechaFin": "2023-01-31"
+  },
+  {
+    "Anio": 2023,
+    "Rango": "2.51 a 3.00 UMA",
+    "SdiDesde": 241.51,
+    "SdiHasta": 289.62,
+    "Porcentaje": 3.869,
+    "FechaInicio": "2023-01-01",
+    "FechaFin": "2023-01-31"
+  },
+  {
+    "Anio": 2023,
+    "Rango": "3.01 a 3.50 UMA",
+    "SdiDesde": 289.62,
+    "SdiHasta": 337.73,
+    "Porcentaje": 3.953,
+    "FechaInicio": "2023-01-01",
+    "FechaFin": "2023-01-31"
+  },
+  {
+    "Anio": 2023,
+    "Rango": "3.51 a 4.00 UMA",
+    "SdiDesde": 337.73,
+    "SdiHasta": 385.84,
+    "Porcentaje": 4.016,
+    "FechaInicio": "2023-01-01",
+    "FechaFin": "2023-01-31"
+  },
+  {
+    "Anio": 2023,
+    "Rango": "4.01 UMA en adelante",
+    "SdiDesde": 385.84,
+    "SdiHasta": null,
+    "Porcentaje": 4.241,
+    "FechaInicio": "2023-01-01",
+    "FechaFin": "2023-01-31"
+  },
+  {
+    "Anio": 2023,
+    "Rango": "1.0 SM",
+    "SdiDesde": 207.44,
+    "SdiHasta": 209.51,
+    "Porcentaje": 3.15,
+    "FechaInicio": "2023-02-01",
+    "FechaFin": "2023-12-31"
+  },
+  {
+    "Anio": 2023,
+    "Rango": "1.01 SM a 1.50 UMA",
+    "SdiDesde": 209.51,
+    "SdiHasta": 156.65,
+    "Porcentaje": 3.281,
+    "FechaInicio": "2023-02-01",
+    "FechaFin": "2023-12-31"
+  },
+  {
+    "Anio": 2023,
+    "Rango": "1.51 a 2.00 UMA",
+    "SdiDesde": 156.65,
+    "SdiHasta": 208.52,
+    "Porcentaje": 3.575,
+    "FechaInicio": "2023-02-01",
+    "FechaFin": "2023-12-31"
+  },
+  {
+    "Anio": 2023,
+    "Rango": "2.01 a 2.50 UMA",
+    "SdiDesde": 208.52,
+    "SdiHasta": 260.39,
+    "Porcentaje": 3.751,
+    "FechaInicio": "2023-02-01",
+    "FechaFin": "2023-12-31"
+  },
+  {
+    "Anio": 2023,
+    "Rango": "2.51 a 3.00 UMA",
+    "SdiDesde": 260.39,
+    "SdiHasta": 312.26,
+    "Porcentaje": 3.869,
+    "FechaInicio": "2023-02-01",
+    "FechaFin": "2023-12-31"
+  },
+  {
+    "Anio": 2023,
+    "Rango": "3.01 a 3.50 UMA",
+    "SdiDesde": 312.26,
+    "SdiHasta": 364.13,
+    "Porcentaje": 3.953,
+    "FechaInicio": "2023-02-01",
+    "FechaFin": "2023-12-31"
+  },
+  {
+    "Anio": 2023,
+    "Rango": "3.51 a 4.00 UMA",
+    "SdiDesde": 364.13,
+    "SdiHasta": 416.0,
+    "Porcentaje": 4.016,
+    "FechaInicio": "2023-02-01",
+    "FechaFin": "2023-12-31"
+  },
+  {
+    "Anio": 2023,
+    "Rango": "4.01 UMA en adelante",
+    "SdiDesde": 416.0,
+    "SdiHasta": null,
+    "Porcentaje": 4.241,
+    "FechaInicio": "2023-02-01",
+    "FechaFin": "2023-12-31"
+  },
+  {
+    "Anio": 2024,
+    "Rango": "1.0 SM",
+    "SdiDesde": 248.93,
+    "SdiHasta": 251.42,
+    "Porcentaje": 3.15,
+    "FechaInicio": "2024-01-01",
+    "FechaFin": "2024-01-31"
+  },
+  {
+    "Anio": 2024,
+    "Rango": "1.01 SM a 1.50 UMA",
+    "SdiDesde": 251.42,
+    "SdiHasta": 156.65,
+    "Porcentaje": 3.413,
+    "FechaInicio": "2024-01-01",
+    "FechaFin": "2024-01-31"
+  },
+  {
+    "Anio": 2024,
+    "Rango": "1.51 a 2.00 UMA",
+    "SdiDesde": 156.65,
+    "SdiHasta": 208.52,
+    "Porcentaje": 4.0,
+    "FechaInicio": "2024-01-01",
+    "FechaFin": "2024-01-31"
+  },
+  {
+    "Anio": 2024,
+    "Rango": "2.01 a 2.50 UMA",
+    "SdiDesde": 208.52,
+    "SdiHasta": 260.39,
+    "Porcentaje": 4.353,
+    "FechaInicio": "2024-01-01",
+    "FechaFin": "2024-01-31"
+  },
+  {
+    "Anio": 2024,
+    "Rango": "2.51 a 3.00 UMA",
+    "SdiDesde": 260.39,
+    "SdiHasta": 312.26,
+    "Porcentaje": 4.588,
+    "FechaInicio": "2024-01-01",
+    "FechaFin": "2024-01-31"
+  },
+  {
+    "Anio": 2024,
+    "Rango": "3.01 a 3.50 UMA",
+    "SdiDesde": 312.26,
+    "SdiHasta": 364.13,
+    "Porcentaje": 4.756,
+    "FechaInicio": "2024-01-01",
+    "FechaFin": "2024-01-31"
+  },
+  {
+    "Anio": 2024,
+    "Rango": "3.51 a 4.00 UMA",
+    "SdiDesde": 364.13,
+    "SdiHasta": 416.0,
+    "Porcentaje": 4.882,
+    "FechaInicio": "2024-01-01",
+    "FechaFin": "2024-01-31"
+  },
+  {
+    "Anio": 2024,
+    "Rango": "4.01 UMA en adelante",
+    "SdiDesde": 416.0,
+    "SdiHasta": null,
+    "Porcentaje": 5.331,
+    "FechaInicio": "2024-01-01",
+    "FechaFin": "2024-01-31"
+  },
+  {
+    "Anio": 2024,
+    "Rango": "1.0 SM",
+    "SdiDesde": 248.93,
+    "SdiHasta": 251.42,
+    "Porcentaje": 3.15,
+    "FechaInicio": "2024-02-01",
+    "FechaFin": "2024-12-31"
+  },
+  {
+    "Anio": 2024,
+    "Rango": "1.01 SM a 1.50 UMA",
+    "SdiDesde": 251.42,
+    "SdiHasta": 163.94,
+    "Porcentaje": 3.413,
+    "FechaInicio": "2024-02-01",
+    "FechaFin": "2024-12-31"
+  },
+  {
+    "Anio": 2024,
+    "Rango": "1.51 a 2.00 UMA",
+    "SdiDesde": 163.94,
+    "SdiHasta": 218.23,
+    "Porcentaje": 4.0,
+    "FechaInicio": "2024-02-01",
+    "FechaFin": "2024-12-31"
+  },
+  {
+    "Anio": 2024,
+    "Rango": "2.01 a 2.50 UMA",
+    "SdiDesde": 218.23,
+    "SdiHasta": 272.51,
+    "Porcentaje": 4.353,
+    "FechaInicio": "2024-02-01",
+    "FechaFin": "2024-12-31"
+  },
+  {
+    "Anio": 2024,
+    "Rango": "2.51 a 3.00 UMA",
+    "SdiDesde": 272.51,
+    "SdiHasta": 326.8,
+    "Porcentaje": 4.588,
+    "FechaInicio": "2024-02-01",
+    "FechaFin": "2024-12-31"
+  },
+  {
+    "Anio": 2024,
+    "Rango": "3.01 a 3.50 UMA",
+    "SdiDesde": 326.8,
+    "SdiHasta": 381.08,
+    "Porcentaje": 4.756,
+    "FechaInicio": "2024-02-01",
+    "FechaFin": "2024-12-31"
+  },
+  {
+    "Anio": 2024,
+    "Rango": "3.51 a 4.00 UMA",
+    "SdiDesde": 381.08,
+    "SdiHasta": 435.37,
+    "Porcentaje": 4.882,
+    "FechaInicio": "2024-02-01",
+    "FechaFin": "2024-12-31"
+  },
+  {
+    "Anio": 2024,
+    "Rango": "4.01 UMA en adelante",
+    "SdiDesde": 435.37,
+    "SdiHasta": null,
+    "Porcentaje": 5.331,
+    "FechaInicio": "2024-02-01",
+    "FechaFin": "2024-12-31"
+  },
+  {
+    "Anio": 2025,
+    "Rango": "1.0 SM",
+    "SdiDesde": 278.8,
+    "SdiHasta": 281.59,
+    "Porcentaje": 3.15,
+    "FechaInicio": "2025-01-01",
+    "FechaFin": "2025-01-31"
+  },
+  {
+    "Anio": 2025,
+    "Rango": "1.01 SM a 1.50 UMA",
+    "SdiDesde": 281.59,
+    "SdiHasta": 163.94,
+    "Porcentaje": 3.544,
+    "FechaInicio": "2025-01-01",
+    "FechaFin": "2025-01-31"
+  },
+  {
+    "Anio": 2025,
+    "Rango": "1.51 a 2.00 UMA",
+    "SdiDesde": 163.94,
+    "SdiHasta": 218.23,
+    "Porcentaje": 4.426,
+    "FechaInicio": "2025-01-01",
+    "FechaFin": "2025-01-31"
+  },
+  {
+    "Anio": 2025,
+    "Rango": "2.01 a 2.50 UMA",
+    "SdiDesde": 218.23,
+    "SdiHasta": 272.51,
+    "Porcentaje": 4.954,
+    "FechaInicio": "2025-01-01",
+    "FechaFin": "2025-01-31"
+  },
+  {
+    "Anio": 2025,
+    "Rango": "2.51 a 3.00 UMA",
+    "SdiDesde": 272.51,
+    "SdiHasta": 326.8,
+    "Porcentaje": 5.307,
+    "FechaInicio": "2025-01-01",
+    "FechaFin": "2025-01-31"
+  },
+  {
+    "Anio": 2025,
+    "Rango": "3.01 a 3.50 UMA",
+    "SdiDesde": 326.8,
+    "SdiHasta": 381.08,
+    "Porcentaje": 5.559,
+    "FechaInicio": "2025-01-01",
+    "FechaFin": "2025-01-31"
+  },
+  {
+    "Anio": 2025,
+    "Rango": "3.51 a 4.00 UMA",
+    "SdiDesde": 381.08,
+    "SdiHasta": 435.37,
+    "Porcentaje": 5.747,
+    "FechaInicio": "2025-01-01",
+    "FechaFin": "2025-01-31"
+  },
+  {
+    "Anio": 2025,
+    "Rango": "4.01 UMA en adelante",
+    "SdiDesde": 435.37,
+    "SdiHasta": null,
+    "Porcentaje": 6.422,
+    "FechaInicio": "2025-01-01",
+    "FechaFin": "2025-01-31"
+  },
+  {
+    "Anio": 2025,
+    "Rango": "1.0 SM",
+    "SdiDesde": 278.8,
+    "SdiHasta": 281.59,
+    "Porcentaje": 3.15,
+    "FechaInicio": "2025-02-01",
+    "FechaFin": "2025-12-31"
+  },
+  {
+    "Anio": 2025,
+    "Rango": "1.01 SM a 1.50 UMA",
+    "SdiDesde": 281.59,
+    "SdiHasta": 170.84,
+    "Porcentaje": 3.544,
+    "FechaInicio": "2025-02-01",
+    "FechaFin": "2025-12-31"
+  },
+  {
+    "Anio": 2025,
+    "Rango": "1.51 a 2.00 UMA",
+    "SdiDesde": 170.84,
+    "SdiHasta": 227.41,
+    "Porcentaje": 4.426,
+    "FechaInicio": "2025-02-01",
+    "FechaFin": "2025-12-31"
+  },
+  {
+    "Anio": 2025,
+    "Rango": "2.01 a 2.50 UMA",
+    "SdiDesde": 227.41,
+    "SdiHasta": 283.98,
+    "Porcentaje": 4.954,
+    "FechaInicio": "2025-02-01",
+    "FechaFin": "2025-12-31"
+  },
+  {
+    "Anio": 2025,
+    "Rango": "2.51 a 3.00 UMA",
+    "SdiDesde": 283.98,
+    "SdiHasta": 340.55,
+    "Porcentaje": 5.307,
+    "FechaInicio": "2025-02-01",
+    "FechaFin": "2025-12-31"
+  },
+  {
+    "Anio": 2025,
+    "Rango": "3.01 a 3.50 UMA",
+    "SdiDesde": 340.55,
+    "SdiHasta": 397.12,
+    "Porcentaje": 5.559,
+    "FechaInicio": "2025-02-01",
+    "FechaFin": "2025-12-31"
+  },
+  {
+    "Anio": 2025,
+    "Rango": "3.51 a 4.00 UMA",
+    "SdiDesde": 397.12,
+    "SdiHasta": 453.69,
+    "Porcentaje": 5.747,
+    "FechaInicio": "2025-02-01",
+    "FechaFin": "2025-12-31"
+  },
+  {
+    "Anio": 2025,
+    "Rango": "4.01 UMA en adelante",
+    "SdiDesde": 453.69,
+    "SdiHasta": null,
+    "Porcentaje": 6.422,
+    "FechaInicio": "2025-02-01",
+    "FechaFin": "2025-12-31"
+  },
+  {
+    "Anio": 2026,
+    "Rango": "1.0 SM",
+    "SdiDesde": 315.04,
+    "SdiHasta": 318.19,
+    "Porcentaje": 3.15,
+    "FechaInicio": "2026-01-01",
+    "FechaFin": "2026-01-31"
+  },
+  {
+    "Anio": 2026,
+    "Rango": "1.01 SM a 1.50 UMA",
+    "SdiDesde": 318.19,
+    "SdiHasta": 170.84,
+    "Porcentaje": 3.676,
+    "FechaInicio": "2026-01-01",
+    "FechaFin": "2026-01-31"
+  },
+  {
+    "Anio": 2026,
+    "Rango": "1.51 a 2.00 UMA",
+    "SdiDesde": 170.84,
+    "SdiHasta": 227.41,
+    "Porcentaje": 4.851,
+    "FechaInicio": "2026-01-01",
+    "FechaFin": "2026-01-31"
+  },
+  {
+    "Anio": 2026,
+    "Rango": "2.01 a 2.50 UMA",
+    "SdiDesde": 227.41,
+    "SdiHasta": 283.98,
+    "Porcentaje": 5.556,
+    "FechaInicio": "2026-01-01",
+    "FechaFin": "2026-01-31"
+  },
+  {
+    "Anio": 2026,
+    "Rango": "2.51 a 3.00 UMA",
+    "SdiDesde": 283.98,
+    "SdiHasta": 340.55,
+    "Porcentaje": 6.026,
+    "FechaInicio": "2026-01-01",
+    "FechaFin": "2026-01-31"
+  },
+  {
+    "Anio": 2026,
+    "Rango": "3.01 a 3.50 UMA",
+    "SdiDesde": 340.55,
+    "SdiHasta": 397.12,
+    "Porcentaje": 6.361,
+    "FechaInicio": "2026-01-01",
+    "FechaFin": "2026-01-31"
+  },
+  {
+    "Anio": 2026,
+    "Rango": "3.51 a 4.00 UMA",
+    "SdiDesde": 397.12,
+    "SdiHasta": 453.69,
+    "Porcentaje": 6.613,
+    "FechaInicio": "2026-01-01",
+    "FechaFin": "2026-01-31"
+  },
+  {
+    "Anio": 2026,
+    "Rango": "4.01 UMA en adelante",
+    "SdiDesde": 453.69,
+    "SdiHasta": null,
+    "Porcentaje": 7.513,
+    "FechaInicio": "2026-01-01",
+    "FechaFin": "2026-01-31"
+  },
+  {
+    "Anio": 2026,
+    "Rango": "1.0 SM",
+    "SdiDesde": 315.04,
+    "SdiHasta": 318.19,
+    "Porcentaje": 3.15,
+    "FechaInicio": "2026-02-01",
+    "FechaFin": "2026-12-31"
+  },
+  {
+    "Anio": 2026,
+    "Rango": "1.01 SM a 1.50 UMA",
+    "SdiDesde": 318.19,
+    "SdiHasta": 177.14,
+    "Porcentaje": 3.676,
+    "FechaInicio": "2026-02-01",
+    "FechaFin": "2026-12-31"
+  },
+  {
+    "Anio": 2026,
+    "Rango": "1.51 a 2.00 UMA",
+    "SdiDesde": 177.14,
+    "SdiHasta": 235.79,
+    "Porcentaje": 4.851,
+    "FechaInicio": "2026-02-01",
+    "FechaFin": "2026-12-31"
+  },
+  {
+    "Anio": 2026,
+    "Rango": "2.01 a 2.50 UMA",
+    "SdiDesde": 235.79,
+    "SdiHasta": 294.45,
+    "Porcentaje": 5.556,
+    "FechaInicio": "2026-02-01",
+    "FechaFin": "2026-12-31"
+  },
+  {
+    "Anio": 2026,
+    "Rango": "2.51 a 3.00 UMA",
+    "SdiDesde": 294.45,
+    "SdiHasta": 353.1,
+    "Porcentaje": 6.026,
+    "FechaInicio": "2026-02-01",
+    "FechaFin": "2026-12-31"
+  },
+  {
+    "Anio": 2026,
+    "Rango": "3.01 a 3.50 UMA",
+    "SdiDesde": 353.1,
+    "SdiHasta": 411.76,
+    "Porcentaje": 6.361,
+    "FechaInicio": "2026-02-01",
+    "FechaFin": "2026-12-31"
+  },
+  {
+    "Anio": 2026,
+    "Rango": "3.51 a 4.00 UMA",
+    "SdiDesde": 411.76,
+    "SdiHasta": 470.41,
+    "Porcentaje": 6.613,
+    "FechaInicio": "2026-02-01",
+    "FechaFin": "2026-12-31"
+  },
+  {
+    "Anio": 2026,
+    "Rango": "4.01 UMA en adelante",
+    "SdiDesde": 470.41,
+    "SdiHasta": null,
+    "Porcentaje": 7.513,
+    "FechaInicio": "2026-02-01",
+    "FechaFin": "2026-12-31"
+  }
+]
